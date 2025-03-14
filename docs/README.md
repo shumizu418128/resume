@@ -6,8 +6,8 @@
 |---|---|
 |氏名|shimizu haruki|
 |生年月日|Aug 16 2002|
-|Twitter|https://x.com/tari_3210_|
-|Qiita|https://qiita.com/tari3210|
+|Twitter|[https://x.com/tari_3210_](https://x.com/tari_3210_)|
+|Qiita|[https://qiita.com/tari3210](https://qiita.com/tari3210)|
 |note|None|
 |Zenn|None|
 |SpeakerDeck|None|
@@ -88,8 +88,8 @@
 
 - Human Beatbox 世界大会 "Grand Beatbox Battle" 非公式情報サイト
 - 2024 年 6 月に、JIMDO によるノーコード開発から、現在の開発体制に移行
-  - [詳細はこちら](https://qiita.com/tari3210/items/0561e91774863d165af0)
-  - [リポジトリはこちら](https://github.com/shumizu418128/gbbinfo2.0)
+- [詳細はこちら](https://qiita.com/tari3210/items/0561e91774863d165af0)
+- [リポジトリはこちら](https://github.com/shumizu418128/gbbinfo2.0)
 
 ## 業務外活動（現在 開発停止中）
 
@@ -102,6 +102,7 @@
 - Beatbox イベント "BATTLE STADIUM" 各種機能
 - Beatbox イベント「ビト森杯」各種機能
   - 過去 3 回開催、最大同接 100 人以上
+- [リポジトリはこちら](https://github.com/shumizu418128/make_some_noise)
 
 ### Beatboxイベント「ビト森杯」運営BOT (2021年12月～)
 
@@ -110,3 +111,4 @@
 - イベント参加受付・問い合わせ窓口などの事務手続きを担当
 - 特に、イベント運営の邪魔になる Discord の機能「ノイズキャンセリング」をオフにできているかを設定画像分析にて確認
   - 現在画像分析といえば ChatGPT が主流だが、当時まだ ChatGPT が存在しなかったため、OpenCV, Tesseract OCR を用いた独自の画像分析プログラムを制作
+- [リポジトリはこちら](https://github.com/shumizu418128/beatbox_forest_image)
