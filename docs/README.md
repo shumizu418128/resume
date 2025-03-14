@@ -19,7 +19,7 @@
 - 機械学習
 - 自然言語処理
 - 数理最適化 単目的・多目的
-- Webサイト制作 (Djangoを使ったフルスタック開発)
+- Web サイト制作（Djangoを使ったフルスタック開発）
 
 ---
 
@@ -29,9 +29,9 @@
 
 - HTML
 - CSS (Tailwind CSS)
-- Javascript
+- JavaScript
 - Python
-- Matlab
+- MATLAB
 - Java
 - C
 
@@ -47,15 +47,15 @@
 - Railway
 - Deta
 - Replit
-- azure
-- babel
-- discord
-- flask
-- gitlab
-- opencv
-- postman
-- react
-- sqlite
+- Azure
+- Babel
+- Discord
+- Flask
+- GitLab
+- OpenCV
+- Postman
+- React
+- SQLite
 - sklearn
 - tailwind
 - tensorflow
@@ -64,27 +64,27 @@
 
 ## 職務経歴詳細
 
-### モビルス株式会社 (2026年4月～)
+### モビルス株式会社（2026年4月～）
 
-- 2026年新卒入社予定
+- 2026 年新卒入社予定
 
-### GOYOH株式会社 (2024年1月～2026年3月)
+### GOYOH株式会社（2024年1月～2026年3月）
 
 - 長期インターン
 - 学生エンジニアとしてデータ分析を主に担当
-  - 多目的数理最適化
+  - 多目的 数理最適化
   - 自然言語処理
   - 機械学習
-  - Webサイト制作
+  - Web サイト制作
 
-### エプソンアヴァシス株式会社 (2023年8月)
+### エプソンアヴァシス株式会社（2023年8月）
 
 - 2週間のインターン
-  - 単目的数理最適化
+  - 単目的 数理最適化
 
 ## 業務外活動
 
-### Webサイト "GBBINFO-JPN" (2021年11月～)
+### Webサイト "GBBINFO-JPN"（2021年11月～）
 
 - Human Beatbox世界大会 "Grand Beatbox Battle" 非公式情報サイト
 - 2024年6月に、JIMDOによるノーコード開発から、現在の開発体制に移行
@@ -93,7 +93,7 @@
 
 ## 業務外活動 (現在開発停止中)
 
-### Discord BOT "make some noise!" (2021年11月～)
+### Discord BOT "make some noise!"（2021年11月～）
 
 - 開発はほとんど行われていないが、現在運用継続中
 - BeatboxコミュニティDiscordサーバー「あつまれ！ビートボックスの森」運営BOT
