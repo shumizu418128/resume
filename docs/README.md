@@ -6,8 +6,8 @@
 |---|---|
 |氏名|shimizu haruki|
 |生年月日|Aug 16 2002|
-|Twitter|[https://x.com/tari_3210_](https://x.com/tari_3210_)|
-|Qiita|[https://qiita.com/tari3210](https://qiita.com/tari3210)|
+|Twitter|<https://x.com/tari_3210_>|
+|Qiita|<https://qiita.com/tari3210>|
 |note|None|
 |Zenn|None|
 |SpeakerDeck|None|
