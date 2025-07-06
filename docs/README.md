@@ -95,7 +95,7 @@
 
 ### デジタル民主主義 2030 プロジェクト "polimoney"
 
-- contributor として複数回PR作成
+- contributor として複数回 PR 作成
 - 政治的中立を宣言している、政治をより良い形に進化させることを目指したコミュニティです
 - polimoney: 政治とお金にまつわる課題をボトムから解決することを目指し、政治資金の見える化ダッシュボードの開発を行うプロジェクト
 - [デジタル民主主義 2030 詳細はこちら](https://dd2030.org/)
@@ -129,12 +129,12 @@
 
 ## 登壇経験
 
-- 実務やインターンの話をしよう Progate BAR 学生エンジニア限定 LT会&交流会
+- 実務やインターンの話をしよう Progate BAR 学生エンジニア限定 LT 会&交流会
   - 2025/03/27
   - [イベント詳細はこちら](https://progate.connpass.com/event/342216/)
   - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/5G13MJ-2025-06-14-013601)
 
-- 【ORION】エンジニアLT会
+- 【ORION】エンジニア LT 会
   - 2025/05/22
   - [イベント詳細はこちら](https://orion.connpass.com/event/353918/)
   - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/K9VX6L-2025-06-14-013813)
