@@ -10,7 +10,7 @@
 |Qiita|<https://qiita.com/tari3210>|
 |note|None|
 |Zenn|None|
-|SpeakerDeck|None|
+|Docswell|<https://www.docswell.com/user/shumizu418128>|
 
 ---
 
@@ -93,6 +93,14 @@
 - [詳細はこちら](https://qiita.com/tari3210/items/0561e91774863d165af0)
 - [リポジトリはこちら](https://github.com/shumizu418128/gbbinfo2.0)
 
+### デジタル民主主義 2030 プロジェクト "polimoney"
+
+- contributor として複数回PR作成
+- 政治的中立を宣言している、政治をより良い形に進化させることを目指したコミュニティです
+- polimoney: 政治とお金にまつわる課題をボトムから解決することを目指し、政治資金の見える化ダッシュボードの開発を行うプロジェクト
+- [デジタル民主主義 2030 詳細はこちら](https://dd2030.org/)
+- [polimoney 詳細はこちら](https://dd2030.org/polimoney)
+
 ---
 
 ## 業務外活動（現在 開発停止中）
@@ -116,3 +124,17 @@
 - 特に、イベント運営の邪魔になる Discord の機能「ノイズキャンセリング」をオフにできているかを設定画像分析にて確認
   - 現在画像分析といえば ChatGPT が主流だが、当時まだ ChatGPT が存在しなかったため、OpenCV, Tesseract OCR を用いた独自の画像分析プログラムを制作
 - [リポジトリはこちら](https://github.com/shumizu418128/beatbox_forest_image)
+
+---
+
+## 登壇経験
+
+- 実務やインターンの話をしよう Progate BAR 学生エンジニア限定 LT会&交流会
+  - 2025/03/27
+  - [イベント詳細はこちら](https://progate.connpass.com/event/342216/)
+  - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/5G13MJ-2025-06-14-013601)
+
+- 【ORION】エンジニアLT会
+  - 2025/05/22
+  - [イベント詳細はこちら](https://orion.connpass.com/event/353918/)
+  - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/K9VX6L-2025-06-14-013813)
