@@ -34,6 +34,8 @@
 - MATLAB
 - Java
 - C
+- Go
+- Typescript
 
 ### フレームワーク・その他
 
@@ -59,6 +61,9 @@
 - sklearn
 - tailwind
 - tensorflow
+- arcpy
+- Django
+- Supabase (PostgreSQL)
 
 ---
 
@@ -67,6 +72,7 @@
 ### モビルス 株式会社（2026年4月～）
 
 - 2026 年 新卒入社予定
+- 2025 年 5 月~ 内定者インターンとして入社
 
 ### GOYOH 株式会社（2024年1月～2026年3月）
 
