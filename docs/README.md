@@ -144,3 +144,8 @@
   - 2025/05/22
   - [イベント詳細はこちら](https://orion.connpass.com/event/353918/)
   - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/K9VX6L-2025-06-14-013813)
+
+- JR 中央線 Developers もくもく&LT大会！　#23
+  - 2025/07/13
+  - [イベント詳細はこちら](https://chuo.connpass.com/event/359745/)
+  - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KEL79D-2025-07-13-002153)
