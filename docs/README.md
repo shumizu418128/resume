@@ -8,8 +8,6 @@
 |生年月日|Aug 16 2002|
 |Twitter|<https://x.com/tari_3210_>|
 |Qiita|<https://qiita.com/tari3210>|
-|note|None|
-|Zenn|None|
 |Docswell|<https://www.docswell.com/user/shumizu418128>|
 
 ---
@@ -64,6 +62,7 @@
 - arcpy
 - Django
 - Supabase (PostgreSQL)
+- Tavily
 
 ---
 
@@ -73,6 +72,7 @@
 
 - 2026 年 新卒入社予定
 - 2025 年 5 月~ 内定者インターンとして入社
+  - [テックブログを執筆](https://mobilus.hatenablog.com/entry/2025/09/24/133035)
 
 ### GOYOH 株式会社（2024年1月～2026年3月）
 
@@ -149,3 +149,8 @@
   - 2025/07/13
   - [イベント詳細はこちら](https://chuo.connpass.com/event/359745/)
   - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KEL79D-2025-07-13-002153)
+
+- PyCon JP 2025 (Day 2 Lightning Talks）
+  - 2025/09/26
+  - [イベント詳細はこちら](https://2025.pycon.jp/ja)
+  - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVME62-2025-09-29-160141)
