@@ -143,4 +143,4 @@
 | PyCon JP 2025 (Day 2 Lightning Talks） | 2025/09/26 | [イベント詳細はこちら](https://2025.pycon.jp/ja) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVME62-2025-09-29-160141) |
 | 『Python の多様性 深掘り LT Night』〜バックエンドから機械学習まで〜 | 2025/10/22 | [イベント詳細はこちら](https://findy.connpass.com/event/371749/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/Z9MY7L-2025-10-22-130722) |
 | React Tokyo ミートアップ #11 | 2025/11/14 | [イベント詳細はこちら](https://react-tokyo.connpass.com/event/372887/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVM33V-2025-11-14-144336) |
-| Google Developer Group - DevFest Tokyo 2025 (懇親会 LT) | 2025/11/14 | [イベント詳細はこちら](https://gdg-tokyo.connpass.com/event/369416/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVM3WE-2025-11-16-013221) |
+| Google Developer Group - DevFest Tokyo 2025 (懇親会 LT) | 2025/11/22 | [イベント詳細はこちら](https://gdg-tokyo.connpass.com/event/369416/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVM3WE-2025-11-16-013221) |
