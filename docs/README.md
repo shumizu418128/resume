@@ -55,6 +55,7 @@
 - OpenCV
 - Postman
 - React
+- Remix
 - SQLite
 - sklearn
 - tailwind
