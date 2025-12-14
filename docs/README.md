@@ -135,22 +135,12 @@
 
 ## 登壇経験
 
-- 実務やインターンの話をしよう Progate BAR 学生エンジニア限定 LT 会&交流会
-  - 2025/03/27
-  - [イベント詳細はこちら](https://progate.connpass.com/event/342216/)
-  - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/5G13MJ-2025-06-14-013601)
-
-- 【ORION】エンジニア LT 会
-  - 2025/05/22
-  - [イベント詳細はこちら](https://orion.connpass.com/event/353918/)
-  - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/K9VX6L-2025-06-14-013813)
-
-- JR 中央線 Developers もくもく&LT大会！　#23
-  - 2025/07/13
-  - [イベント詳細はこちら](https://chuo.connpass.com/event/359745/)
-  - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KEL79D-2025-07-13-002153)
-
-- PyCon JP 2025 (Day 2 Lightning Talks）
-  - 2025/09/26
-  - [イベント詳細はこちら](https://2025.pycon.jp/ja)
-  - [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVME62-2025-09-29-160141)
+| イベント名 | 日付 | イベント詳細 | 登壇資料 |
+|----------|------|--------------|----------|
+| 実務やインターンの話をしよう Progate BAR 学生エンジニア限定 LT 会&交流会 | 2025/03/27 | [イベント詳細はこちら](https://progate.connpass.com/event/342216/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/5G13MJ-2025-06-14-013601) |
+| 【ORION】エンジニア LT 会 | 2025/05/22 | [イベント詳細はこちら](https://orion.connpass.com/event/353918/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/K9VX6L-2025-06-14-013813) |
+| JR 中央線 Developers もくもく&LT大会！　#23 | 2025/07/13 | [イベント詳細はこちら](https://chuo.connpass.com/event/359745/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KEL79D-2025-07-13-002153) |
+| PyCon JP 2025 (Day 2 Lightning Talks） | 2025/09/26 | [イベント詳細はこちら](https://2025.pycon.jp/ja) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVME62-2025-09-29-160141) |
+| 『Python の多様性 深掘り LT Night』〜バックエンドから機械学習まで〜 | 2025/10/22 | [イベント詳細はこちら](https://findy.connpass.com/event/371749/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/Z9MY7L-2025-10-22-130722) |
+| React Tokyo ミートアップ #11 | 2025/11/14 | [イベント詳細はこちら](https://react-tokyo.connpass.com/event/372887/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVM33V-2025-11-14-144336) |
+| Google Developer Group - DevFest Tokyo 2025 (懇親会 LT) | 2025/11/14 | [イベント詳細はこちら](https://gdg-tokyo.connpass.com/event/369416/) | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVM3WE-2025-11-16-013221) |
