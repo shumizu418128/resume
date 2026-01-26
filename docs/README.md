@@ -147,3 +147,5 @@
 | [『Python の多様性 深掘り LT Night』〜バックエンドから機械学習まで〜](https://findy.connpass.com/event/371749/) | 2025/10/22 | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/Z9MY7L-2025-10-22-130722) |
 | [React Tokyo ミートアップ #11](https://react-tokyo.connpass.com/event/372887/) | 2025/11/14 | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVM33V-2025-11-14-144336) |
 | [Google Developer Group - DevFest Tokyo 2025 (懇親会 LT)](https://gdg-tokyo.connpass.com/event/369416/) | 2025/11/22 | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVM3WE-2025-11-16-013221) |
+| Progate コミュニティ カンファレンス | 2025/12/27 | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/ZN9YG2-2025-12-25-180611) |
+| burikaigi 2026 | 2026/01/09 | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KQXVYE-2026-01-08-221249) |
