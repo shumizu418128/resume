@@ -149,3 +149,5 @@
 | [Google Developer Group - DevFest Tokyo 2025 (懇親会 LT)](https://gdg-tokyo.connpass.com/event/369416/) | 2025/11/22 | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KVM3WE-2025-11-16-013221) |
 | Progate コミュニティ カンファレンス | 2025/12/27 | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/ZN9YG2-2025-12-25-180611) |
 | burikaigi 2026 | 2026/01/09 | [登壇資料はこちら](https://www.docswell.com/s/shumizu418128/KQXVYE-2026-01-08-221249) |
+| 音楽 xIT イベント＠渋谷（DIO NIGHT Vol.1） | 2026/02/10 | (実務やインターンの話をしよう Progate BAR 学生エンジニア限定 LT 会&交流会と同じスライド） |
+| GUILD VALLEY　スタートアップエンジニア LT 会 | 2026/02/20 | (Progate コミュニティ カンファレンスと同じスライド） |
