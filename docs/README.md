@@ -30,6 +30,9 @@
 - HTML
 - CSS (Tailwind CSS)
 - JavaScript
+  - React
+  - Next.js
+  - Remix
 - Python
 - MATLAB
 - Java
@@ -37,35 +40,17 @@
 - Go
 - Typescript
 
-### フレームワーク・その他
+### クラウド
 
-- Docker
-- GitHub
 - GCP
+- AWS
+- Azure
 - Render
 - Heroku
 - Koyeb
-- Azure
 - Railway
 - Deta
 - Replit
-- Azure
-- Babel
-- Discord
-- Flask
-- GitLab
-- OpenCV
-- Postman
-- React
-- Remix
-- SQLite
-- sklearn
-- tailwind
-- tensorflow
-- arcpy
-- Django
-- Supabase (PostgreSQL)
-- Tavily
 
 ---
 
@@ -97,10 +82,12 @@
 
 ### Web サイト "GBBINFO-JPN"（2021年11月～）
 
+- [解説記事はこちら](https://qiita.com/tari3210/items/0561e91774863d165af0)
 - Human Beatbox 世界大会 "Grand Beatbox Battle" 非公式情報サイト
 - 2024 年 6 月に、JIMDO によるノーコード開発から、現在の開発体制に移行
-- [詳細はこちら](https://qiita.com/tari3210/items/0561e91774863d165af0)
-- [リポジトリはこちら](https://github.com/shumizu418128/gbbinfo2.0)
+  - [リポジトリはこちら](https://github.com/shumizu418128/gbbinfo2.0)
+- 2025 年 8 月に、リファクタリングを実施
+  - [リポジトリはこちら](https://github.com/shumizu418128/gbbinfo3.0)
 
 ### デジタル民主主義 2030 プロジェクト "polimoney"
 
@@ -117,6 +104,7 @@
 ### Discord BOT "make some noise!"（2021年11月～）
 
 - 開発はほとんど行われていないが、現在も運用継続中
+  - 2026 年：Heroku 無料枠を使い切ったため廃止
 - Beatbox コミュニティ Discord サーバー「あつまれ！　ビートボックスの森」運営 BOT
 - Discord サーバー加入、VC 接続、サーバー内でのチャットなどのイベントを処理
 - ユーザーの発言を解析し、適切な返答を生成
