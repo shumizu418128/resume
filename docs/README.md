@@ -129,16 +129,16 @@
 
 | イベント名 | 日付 | スライド |
 |----------|------|----------|
-| [実務やインターンの話をしよう Progate BAR 学生エンジニア限定 LT 会&交流会](https://progate.connpass.com/event/342216/) | 2025/03/27 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/5G13MJ-2025-06-14-013601) |
-| [【ORION】エンジニア LT 会](https://orion.connpass.com/event/353918/) | 2025/05/22 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/K9VX6L-2025-06-14-013813) |
-| [JR 中央線 Developers もくもく&LT大会！　#23](https://chuo.connpass.com/event/359745/) | 2025/07/13 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/KEL79D-2025-07-13-002153) |
-| [PyCon JP 2025 (Day 2 Lightning Talks）](https://2025.pycon.jp/ja) | 2025/09/26 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/KVME62-2025-09-29-160141) |
-| [『Python の多様性 深掘り LT Night』〜バックエンドから機械学習まで〜](https://findy.connpass.com/event/371749/) | 2025/10/22 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/Z9MY7L-2025-10-22-130722) |
-| [React Tokyo ミートアップ #11](https://react-tokyo.connpass.com/event/372887/) | 2025/11/14 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/KVM33V-2025-11-14-144336) |
-| [Google Developer Group - DevFest Tokyo 2025 (懇親会 LT)](https://gdg-tokyo.connpass.com/event/369416/) | 2025/11/22 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/KVM3WE-2025-11-16-013221) |
-| [Progate コミュニティ カンファレンス](https://progate.connpass.com/event/372487/) | 2025/12/27 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/ZN9YG2-2025-12-25-180611) |
-| [burikaigi 2026](https://toyama-eng.connpass.com/event/372229/) | 2026/01/09 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/KQXVYE-2026-01-08-221249) |
+| [実務やインターンの話をしよう Progate BAR 学生エンジニア限定 LT 会&交流会](https://progate.connpass.com/event/342216/) | 2025/03/27 | [インターンに行ってただけなのに](https://www.docswell.com/s/shumizu418128/5G13MJ-2025-06-14-013601) |
+| [【ORION】エンジニア LT 会](https://orion.connpass.com/event/353918/) | 2025/05/22 | [デジタル民主主義、政治抜きで。](https://www.docswell.com/s/shumizu418128/K9VX6L-2025-06-14-013813) |
+| [JR 中央線 Developers もくもく&LT大会！　#23](https://chuo.connpass.com/event/359745/) | 2025/07/13 | [インターン行ったら...](https://www.docswell.com/s/shumizu418128/KEL79D-2025-07-13-002153) |
+| [PyCon JP 2025 (Day 2 Lightning Talks）](https://2025.pycon.jp/ja) | 2025/09/26 | [Flask-Babel webサイトのお手軽多言語対応](https://www.docswell.com/s/shumizu418128/KVME62-2025-09-29-160141) |
+| [『Python の多様性 深掘り LT Night』〜バックエンドから機械学習まで〜](https://findy.connpass.com/event/371749/) | 2025/10/22 | [Flask-Babel webサイトのお手軽多言語対応 + PyCon JP 2025の小噺](https://www.docswell.com/s/shumizu418128/Z9MY7L-2025-10-22-130722) |
+| [React Tokyo ミートアップ #11](https://react-tokyo.connpass.com/event/372887/) | 2025/11/14 | [え？Reactってなんですか？](https://www.docswell.com/s/shumizu418128/KVM33V-2025-11-14-144336) |
+| [Google Developer Group - DevFest Tokyo 2025 (懇親会 LT)](https://gdg-tokyo.connpass.com/event/369416/) | 2025/11/22 | [Geminiで実現！完全自動・Webサイト20言語対応](https://www.docswell.com/s/shumizu418128/KVM3WE-2025-11-16-013221) |
+| [Progate コミュニティ カンファレンス](https://progate.connpass.com/event/372487/) | 2025/12/27 | [無料でAIを使い倒す会](https://www.docswell.com/s/shumizu418128/ZN9YG2-2025-12-25-180611) |
+| [burikaigi 2026](https://toyama-eng.connpass.com/event/372229/) | 2026/01/09 | [デジタル民主主義、政治抜きで。](https://www.docswell.com/s/shumizu418128/KQXVYE-2026-01-08-221249) |
 | [音楽 xIT イベント＠渋谷（DIO NIGHT Vol.1）](https://xxi-music-it.connpass.com/event/383084/) | 2026/02/10 | (実務やインターンの話をしよう Progate BAR 学生エンジニア限定 LT 会&交流会と同じスライド） |
 | [GUILD VALLEY　スタートアップエンジニア LT 会](https://guild-valley.connpass.com/event/383397/) | 2026/02/20 | (Progate コミュニティ カンファレンスと同じスライド） |
-| [〜花より団子!?〜【発表資料は3枚だけ！】3LT](https://omj-ts.connpass.com/event/388720/) | 2026/04/17 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/KJW47Q-2026-04-16-232708) |
-| [GitHub Copilot Meetup Tokyo #2](https://aiau.connpass.com/event/392336/) | 2026/05/22 | [スライドはこちら](https://www.docswell.com/s/shumizu418128/5L3QGD-2026-05-23-001601) |
+| [〜花より団子!?〜【発表資料は3枚だけ！】3LT](https://omj-ts.connpass.com/event/388720/) | 2026/04/17 | [「止まれ」で見てみよう 多言語対応](https://www.docswell.com/s/shumizu418128/KJW47Q-2026-04-16-232708) |
+| [GitHub Copilot Meetup Tokyo #2](https://aiau.connpass.com/event/392336/) | 2026/05/22 | [Copilotで20言語対応してみた](https://www.docswell.com/s/shumizu418128/5L3QGD-2026-05-23-001601) |
