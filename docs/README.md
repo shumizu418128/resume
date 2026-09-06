@@ -142,3 +142,6 @@
 | [GUILD VALLEY　スタートアップエンジニア LT 会](https://guild-valley.connpass.com/event/383397/) | 2026/02/20 | (Progate コミュニティ カンファレンスと同じスライド） |
 | [〜花より団子!?〜【発表資料は3枚だけ！】3LT](https://omj-ts.connpass.com/event/388720/) | 2026/04/17 | [「止まれ」で見てみよう 多言語対応](https://www.docswell.com/s/shumizu418128/KJW47Q-2026-04-16-232708) |
 | [GitHub Copilot Meetup Tokyo #2](https://aiau.connpass.com/event/392336/) | 2026/05/22 | [Copilotで20言語対応してみた](https://www.docswell.com/s/shumizu418128/5L3QGD-2026-05-23-001601) |
+| [新卒N年目のLT交流会！最近の自分の取り組み・チームの取り組みをシェアしよう！](https://fresh-engineers.connpass.com/event/394468/) | 2026/06/18 | [もう2026年だけど “コールセンター” を考える](https://www.docswell.com/s/shumizu418128/ZVJMNX-2026-06-17-212246) |
+| [情シスSlack7周年イベント](https://corp-engr.connpass.com/event/396548/) | 2026/07/29 | [え？ 情シスってなんですか？](https://www.docswell.com/s/shumizu418128/KE1917-2026-07-10-233351) |
+| [PyCon JP 2026](https://2026.pycon.jp/ja) | 2026/08/22 | [Python まじ わからん 〜まじでpythonなんもわからん！を救う会〜](https://www.docswell.com/s/shumizu418128/K8NLPX-2026-08-22-003035) |
