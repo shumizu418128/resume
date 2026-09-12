@@ -146,9 +146,17 @@
 
 ---
 
-## 登壇経験
+## LTイベント登壇経験
 
 [多すぎてここに書ききれないので、こちらをご覧ください。各スライドの概要欄にイベント詳細リンクも掲載しています。](https://www.docswell.com/user/shumizu418128)
+
+## カンファレンス登壇経験
+
+| イベント名 | 日付 | スライド |
+|----------|------|----------|
+| [PyCon JP 2025 (Day 2 Lightning Talks）](https://2025.pycon.jp/ja) | 2025/09/27 | [Flask-Babel webサイトのお手軽国際化対応](https://www.docswell.com/s/shumizu418128/KVME62-2025-09-29-160141) |
+| [BuriKaigi 2026](https://toyama-eng.connpass.com/event/372229/) | 2026/01/09 | [デジタル民主主義、政治抜きで。](https://www.docswell.com/s/shumizu418128/KQXVYE-2026-01-08-221249) |
+| [PyCon JP 2026](https://2026.pycon.jp/ja) | 2026/08/22 | [まじでpythonなんもわからん！を救う会](https://www.docswell.com/s/shumizu418128/K8NLPX-2026-08-22-003035) |
 
 ---
 
