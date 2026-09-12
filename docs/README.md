@@ -110,6 +110,8 @@
   - [リポジトリはこちら](https://github.com/shumizu418128/gbbinfo2.0)
 - 2025 年 8 月に、リファクタリングを実施
   - [リポジトリはこちら](https://github.com/shumizu418128/gbbinfo3.0)
+- 2026 年 8 月に、再度リファクタリングを実施
+  - [リポジトリはこちら](https://github.com/shumizu418128/gbbinfo4.0)
 
 ### デジタル民主主義 2030 プロジェクト "polimoney"
 
