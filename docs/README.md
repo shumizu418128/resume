@@ -59,9 +59,7 @@
 ### モビルス 株式会社（2026年4月～）
 
 - 2026 年 新卒入社
-  - [テックブログを執筆](https://mobilus.hatenablog.com/entry/2026/05/12/164401)
 - 2025 年 5 月~ 内定者インターン
-  - [テックブログを執筆](https://mobilus.hatenablog.com/entry/2025/09/24/133035)
 
 ### GOYOH 株式会社（2024年1月～2026年3月）
 
@@ -145,3 +143,14 @@
 | [新卒N年目のLT交流会！最近の自分の取り組み・チームの取り組みをシェアしよう！](https://fresh-engineers.connpass.com/event/394468/) | 2026/06/18 | [もう2026年だけど “コールセンター” を考える](https://www.docswell.com/s/shumizu418128/ZVJMNX-2026-06-17-212246) |
 | [情シスSlack7周年イベント](https://corp-engr.connpass.com/event/396548/) | 2026/07/29 | [え？ 情シスってなんですか？](https://www.docswell.com/s/shumizu418128/KE1917-2026-07-10-233351) |
 | [PyCon JP 2026](https://2026.pycon.jp/ja) | 2026/08/22 | [まじでpythonなんもわからん！を救う会](https://www.docswell.com/s/shumizu418128/K8NLPX-2026-08-22-003035) |
+
+---
+
+## テックブログ
+
+| タイトル | 日付 |
+|----------|------|
+| [Go言語でPDFを作ろう](https://mobilus.hatenablog.com/entry/2025/09/24/133035) | 2025/09/24 |
+| [新卒が実践。本番クオリティのSAM活用術](https://mobilus.hatenablog.com/entry/2026/05/12/164401) | 2026/05/12 |
+| [はじめてのGoogle Cloud Next Tokyo 26 参加レポート](https://mobilus.hatenablog.com/entry/2026/08/17/192300) | 2026/08/17 |
+| [PyCon JP 2026 参加＆初めての登壇レポート](https://mobilus.hatenablog.com/entry/2026/09/01/184031) | 2026/09/01 |
