@@ -73,7 +73,6 @@
 - PostgreSQL
 - Redis
 - Drizzle O/R マッパ / Prisma
-- Shopify Liquid
 
 ---
 
