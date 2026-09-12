@@ -72,7 +72,7 @@
 - Docker
 - PostgreSQL
 - Redis
-- Drizzle ORM / Prisma
+- Drizzle O/R マッパ / Prisma
 - Shopify Liquid
 
 ---
@@ -82,7 +82,7 @@
 ### モビルス 株式会社（2026年4月～）
 
 - 2026 年 新卒入社
-  - 担当製品：MOBI VOICE, maestra (子会社・vottiaの製品)
+  - 担当製品：MOBI VOICE, maestra (子会社・vottia の製品）
 - 2025 年 5 月~ 内定者インターン
 
 ### GOYOH 株式会社（2024年1月～2026年3月）
@@ -149,9 +149,7 @@
 
 ## 登壇経験
 
-多すぎてここに書ききれないので、こちらをご覧ください。各スライドの概要欄にイベント詳細リンクも掲載しています。
-
-https://www.docswell.com/user/shumizu418128
+[多すぎてここに書ききれないので、こちらをご覧ください。各スライドの概要欄にイベント詳細リンクも掲載しています。](https://www.docswell.com/user/shumizu418128)
 
 ---
 
