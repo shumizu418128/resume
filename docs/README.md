@@ -160,6 +160,13 @@
 | [BuriKaigi 2026](https://toyama-eng.connpass.com/event/372229/) | 2026/01/09 | [デジタル民主主義、政治抜きで。](https://www.docswell.com/s/shumizu418128/KQXVYE-2026-01-08-221249) |
 | [PyCon JP 2026](https://2026.pycon.jp/ja) | 2026/08/22 | [まじでpythonなんもわからん！を救う会](https://www.docswell.com/s/shumizu418128/K8NLPX-2026-08-22-003035) |
 
+## ボランティアスタッフ経験
+
+| イベント名 | 日付 |
+|----------|------|
+| [React Tokyo フェス 2026](https://react-tokyo.connpass.com/event/366003/) | 2026/02/28 |
+| [第十三回技術書同人誌博覧会](https://gishohaku.connpass.com/event/372013/) | 2026/05/10 |
+
 ---
 
 ## テックブログ
@@ -170,3 +177,5 @@
 | [新卒が実践。本番クオリティのSAM活用術](https://mobilus.hatenablog.com/entry/2026/05/12/164401) | 2026/05/12 |
 | [はじめてのGoogle Cloud Next Tokyo 26 参加レポート](https://mobilus.hatenablog.com/entry/2026/08/17/192300) | 2026/08/17 |
 | [PyCon JP 2026 参加＆初めての登壇レポート](https://mobilus.hatenablog.com/entry/2026/09/01/184031) | 2026/09/01 |
+| [TypeSafe AI - 現時点でわかっていることまとめ](https://mobilus.hatenablog.com/entry/2026/09/18/155720) | 2026/09/18 |
+| [Go conference 2026 参加レポート](https://mobilus.hatenablog.com/entry/2026/10/05/112528) | 2026/10/05 |
